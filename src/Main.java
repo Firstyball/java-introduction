@@ -55,7 +55,7 @@ public class Main {
         return points;
 
     }
-
+/*
     private static void question() {
         Scanner scanner = new Scanner(System.in);
         String questionOne = "can a chicken fly?";
@@ -101,4 +101,6 @@ public class Main {
         System.out.println("answer the next questions with yes or not");
         return points;
     }
+    
+ */
 }
